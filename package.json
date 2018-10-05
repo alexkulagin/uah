@@ -1,0 +1,16 @@
+{
+  "name": "uah",
+  "version": "1.0.0",
+  "description": "utils and helpers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkulagin/uah.git"
+  },
+  "author": "alexkulagin.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexkulagin/uah/issues"
+  },
+  "homepage": "https://github.com/alexkulagin/uah#readme"
+}
