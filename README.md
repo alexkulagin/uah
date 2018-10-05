@@ -1,14 +1,17 @@
 ### Utils & Helpers
-<br />
+
+
 ### Installation
 ```sh
 $ npm install uah
 ```
-<br />
+
+
 ### Usage
 ```js
 const uah = require('uah');
 ```
+
 ##### Type checking
 ```js
 uah.isObject({}); 		// -> true
@@ -20,7 +23,8 @@ uah.isNumber(12.22); 	// -> true
 uah.isInt(6); 			// -> true
 uah.isBoolean(true); 	// -> true
 ```
-<br />
+
+
 ### License
 
 MIT
